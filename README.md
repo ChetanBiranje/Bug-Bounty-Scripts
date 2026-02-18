@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐛 Bug Bounty Scripts Collection
 
 > **A comprehensive collection of Python scripts for bug bounty hunting and security testing**
@@ -345,3 +346,11 @@ If you find these scripts useful, please ⭐ star this repository!
 [⭐ Star](https://github.com/ChetanBiranje/Bug-Bounty-Scripts) | [🐛 Issues](https://github.com/ChetanBiranje/Bug-Bounty-Scripts/issues) | [💬 Discussions](https://github.com/ChetanBiranje/Bug-Bounty-Scripts/discussions)
 
 </div>
+=======
+# Bug-Bounty-Scripts
+- Automation scripts for bug bounty hunting
+
+   - Reconnaissance tools
+
+   - Vulnerability scanners
+>>>>>>> 5fcaa046cf6f32fecdb139042ca016abe2810249
