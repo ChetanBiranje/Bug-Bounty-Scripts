@@ -1,0 +1,21 @@
+# Core Dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+dnspython>=2.4.0
+urllib3>=2.0.0
+colorama>=0.4.6
+
+# Additional Libraries
+pyjwt>=2.8.0
+tqdm>=4.66.0
+python-nmap>=0.7.1
+selenium>=4.15.0
+pillow>=10.1.0
+reportlab>=4.0.0
+lxml>=4.9.0
+pyyaml>=6.0.0
+python-dotenv>=1.0.0
+
+# Optional (for advanced features)
+shodan>=1.30.0
+censys>=2.2.0

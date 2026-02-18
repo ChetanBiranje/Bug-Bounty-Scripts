@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs
+*.log
+results/
+outputs/
+screenshots/
+
+# Secrets
+.env
+secrets.txt
+api_keys.txt
+
+# Reports
+reports/*.pdf
+reports/*.html
